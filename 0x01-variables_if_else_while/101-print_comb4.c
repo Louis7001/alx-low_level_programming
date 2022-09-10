@@ -2,13 +2,9 @@
 
 
 /**
- *
- *
  * main - print possible combo of 3
  *
- *
  * Return: return zero at the end
- *
  */
 
 int main(void)
