@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * pribt _alphabet_x10 - prints the lower case
+ * print _alphabet_x10 - prints the lowercase
+ *
+ * Return: Always success
  */
 void print_alphabet_x10(void)
 {
