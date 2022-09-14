@@ -1,13 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "main.h"
 
-/**main - entry poin
+/*
+ * main - entry point
  *
  * Return: always 0
  */
 
-int main(void) {
+int main(void) 
+{
 	printf("_putchar\n");
 
 	return (0);
