@@ -8,7 +8,6 @@
 
 void rev_string(char *s)
 {
-	"sam"->"mas";
 	char tmp;
 	int i, length1, length2;
 
