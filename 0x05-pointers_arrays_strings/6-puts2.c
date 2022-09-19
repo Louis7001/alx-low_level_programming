@@ -2,8 +2,8 @@
 #include <string.h>
 
 /**
- *  puts2 -> puts2 function
- *   @str: str parameter
+ * puts2 -> puts2 function
+ * @str: str parameter
  *
  */
 void puts2(char *str)
@@ -12,8 +12,6 @@ void puts2(char *str)
 
 	len = strlen(str);
 	for (i = 0; i < len; i++)
-	{
 		_putchar(str[i]);
-	}
 	_putchar('\n');
 }
