@@ -3,7 +3,7 @@
 
 /**
  * _strncpy -> for copying purpose
- * @destL param1
+ * @dest: param1
  * @src: param2
  * @n: param3
  * Return: string
