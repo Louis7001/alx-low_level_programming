@@ -7,6 +7,7 @@
  * @n: an element of an array
  *
  */
+
 void reverse_array(int *a, int n)
 {
 	int *p, i, aux, k;
